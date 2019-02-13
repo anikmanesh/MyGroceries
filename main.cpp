@@ -22,7 +22,7 @@ int main()
 			cout <<"\nname of item: ";
 			cin >> item;
 			list.push_back(item);  
-		numItems++;
+			numItems++;
 		}
 	}
 	if (numItems == 0)
